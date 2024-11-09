@@ -4,7 +4,7 @@ Project Overview
 This project involves data cleaning, exploratory data analysis (EDA), visualization, and content type prediction using machine learning on a Netflix dataset. 
 The analysis uncovers various insights into the distribution of Netflix content, top genres, popular directors, rating distributions, and release trends. Additionally, 
 a Logistic Regression model is used to predict the content type (Movie or TV Show).
-#Dataset=()
+#Dataset=(https://github.com/chandrabhanyadav/Netflix-Data_-Cleaning-Analysis-and-Visualization_-Data-Analyst-/blob/main/netflix.csv)
 #Project Steps
 1. Data Preprocessing
 Loaded the dataset and checked its structure using .head(), .info(), and .describe().
